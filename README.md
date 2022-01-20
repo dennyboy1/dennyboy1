@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dennyboy1
+- 👋 Hi, I’m Dennis - @dennyboy1
 - 👀 I’m interested in fine tuning my programming skills
 - 🌱 I’m currently learning to code in python
 - 💞️ I’m looking to collaborate on automation processes
